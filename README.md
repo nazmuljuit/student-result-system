@@ -4,5 +4,5 @@ This project about to create students result . System is used by laravel 5.5 and
 #install process:
  1. download the zip folder
  2. compress the folder
- 3. create database result
+ 3. create database 'result'
  4. use result.sql
